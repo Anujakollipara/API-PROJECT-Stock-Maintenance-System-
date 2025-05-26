@@ -335,7 +335,7 @@ def adminlogin():
 if _name=="main_":
     stock.run(debug=True)
 
-  ```python  
+ ```  <-- closing backticks 
     
 🛠 Tech Stack
 Frontend: HTML, CSS, JavaScript
