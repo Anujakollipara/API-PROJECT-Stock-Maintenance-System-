@@ -21,7 +21,7 @@ View My Orders (API: GET /orders/<user_id>)
 
 🚀Project code:
 
-
+```python
 from flask import Flask,request,jsonify
 from flask_mysqldb import MySQL
 from datetime import datetime,timedelta 
@@ -335,7 +335,7 @@ def adminlogin():
 if _name=="main_":
     stock.run(debug=True)
 
-    
+  ```python  
     
 🛠 Tech Stack
 Frontend: HTML, CSS, JavaScript
